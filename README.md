@@ -35,11 +35,11 @@
 
 ### 主页
 
-!\[主页]\(<https://github.com/noir017/perlerBeadsApplet/screenshot/main.png> "主页")
+![主页](<https://github.com/noir017/perlerBeadsApplet/screenshot/main.png> "主页")
 
 ### 编辑器
 
-!\[编辑器]\(<https://github.com/noir017/perlerBeadsApplet/screenshot/editor.png> "编辑器")
+![编辑器](<https://github.com/noir017/perlerBeadsApplet/screenshot/editor.png> "编辑器")
 
 
 ## 技术栈
