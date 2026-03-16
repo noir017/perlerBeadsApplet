@@ -35,11 +35,11 @@
 
 ### 主页
 
-!\[主页]\(./screenshot/main.png null)
+!\[主页]\(./screenshot/main.png)
 
 ### 编辑器
 
-!\[编辑器]\(./screenshot/editor.png null)
+!\[编辑器]\(./screenshot/editor.png)
 
 ## 技术栈
 
