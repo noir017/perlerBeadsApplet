@@ -215,12 +215,12 @@ const showColorPicker = computed(() => {
 })
 
 const handleColorSelect = (color: string) => {
-  // currentColor.value = color
-  // emit('update:modelValue', color)
-  // if (currentTool.value === 'eraser') {
-  //   currentTool.value = 'brush'
-  //   emit('toolChange', 'brush')
-  // }
+  currentColor.value = color
+  emit('update:modelValue', color)
+  if (currentTool.value === 'eraser') {
+    currentTool.value = 'brush'
+    emit('toolChange', 'brush')
+  }
 }
 
 const handleGridSizeChange = (size: number) => {
